@@ -1,4 +1,4 @@
-# Deep_Learning_For_Computer_Vision_With_Python
+# Deep_Learning_For_Computer_Vision_With_Python (Practitioner bundle)
 
 - [深度学习与计算机视觉(PB-13)—ImageNet数据集准备](https://lonepatient.top/2018/07/01/Deep_Learning_For_Computer_Vision_With_Python_PB_13.html)
 - [深度学习与计算机视觉(PB-12)—ResNet](https://lonepatient.top/2018/06/25/Deep_Learning_For_Computer_Vision_With_Python_PB_12.html)
